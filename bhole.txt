@@ -1,0 +1,11 @@
+DevOps
+linux
+git&Github
+docker
+docker compose
+docker networking
+jenkins
+kubernetes
+ansible
+terraform
+
