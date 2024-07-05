@@ -6,6 +6,36 @@ docker compose
 docker networking
 jenkins
 kubernetes
-ansible
+ansible 
 terraform
+podman
+ci cd pipeline
 
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=<remote>/<branch> master
+
+
+Mahakaal@LAPTOP-A4ACQFPM MINGW64 ~/devops (master)
+$ git log
+commit c4978d93db4885a3c7e56d386cd6d2660343ad4e (HEAD -> master, dev)
+Author: vishalkarma-211119 <vishalkarma83@gmail.com>
+Date:   Thu Jul 4 18:26:48 2024 +0530
+
+    added readme file
+
+commit fd4dee129e345f8a383ef85c2d563adbe1820f54
+Author: vishalkarma-211119 <vishalkarma83@gmail.com>
+Date:   Thu Jul 4 18:19:12 2024 +0530
+
+    feko changes
+
+commit 9cf79f3f0881a3b0ef07ab77ef9eff1d94b0fb3d
+Author: Vishalkarma-211119 <Vishalkarma83@gmail.com>
+Date:   Thu Jul 4 16:05:50 2024 +0530
+
+    khfh
+
+commit 344a994ef3bc4ee6715c594f33
