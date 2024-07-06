@@ -6,5 +6,6 @@ git log
 git branch -b 
 git checkout -b "branch name"
 git push origin (variable name) master
+git add origin master
 
 
